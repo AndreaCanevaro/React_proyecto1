@@ -1,1 +1,1 @@
-# React_proyecto1
+#OUTLETIME: Primer proyecto individual creado con React Js
